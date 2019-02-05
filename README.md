@@ -1,4 +1,4 @@
-# ![Bitcratic logo](https://www.bitcratic.com/images/logo.png) Bitcratic Tokenbase
+# ![Bitcratic logo](https://www.bitcratic.com/images/bitcratic1.png) Bitcratic Tokenbase
 
 
 **Bitcratic** is a decentralized exchange with over 700 tradable ERC20-compliant tokens. Tokenbase is our ERC20 token knowledgebase.
