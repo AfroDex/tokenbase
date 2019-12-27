@@ -1,4 +1,4 @@
-# ![AfroDex_Logo](http://afrodexlabs.com/images/AfroDex-250-250.png) AfroDex Tokenbase
+# ![AfroDex_Logo](http://afrodexlabs.com/images/AfroDex-150-150.png) AfroDex Tokenbase
 
 
 **AfroDex** is a decentralized exchange with over 10 tradable ERC20-compliant tokens. Tokenbase is our ERC20 token knowledgebase.
