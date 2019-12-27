@@ -1,7 +1,7 @@
-# ![Bitcratic logo](https://www.bitcratic.com/images/bitcratic1.png) Bitcratic Tokenbase
+# ![AfroDex_Logo](http://afrodexlabs.com/images/title.png) AfroDex Tokenbase
 
 
-**Bitcratic** is a decentralized exchange with over 700 tradable ERC20-compliant tokens. Tokenbase is our ERC20 token knowledgebase.
+**AfroDex** is a decentralized exchange with over 10 tradable ERC20-compliant tokens. Tokenbase is our ERC20 token knowledgebase.
 
 ## Format
 Token information is stored in YAML format, one token per file, in `tokens/0xTOKENADDRESS.yaml`.
