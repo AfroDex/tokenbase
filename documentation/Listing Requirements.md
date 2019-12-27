@@ -1,9 +1,9 @@
 # Requirements for Listed Tokens
 
-A listed token is a token that appears by
+A listed token is a token that appears on: http://afrodexlabs.com/markets/
 
 This document defines a token listing, outlines the requirements a token must
-fulfill to be listed on ForkDelta platform, specifies the format a listing
+fulfill to be listed on AfroDex erc20 Exchange platform, specifies the format a listing
 request must be presented in, and explains some of the reasoning behind the
 requirements.
 
@@ -21,3 +21,4 @@ requirements.
 ## Requirements for a Token Listing Request
 
 A requester seeking listing for a token must supply the following
+as listed on thr form: http://afrodexlabs.com/listyourtoken.html
