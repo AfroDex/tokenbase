@@ -30,7 +30,7 @@ Description of the token can be included:
 addr: '0x5b0751713b2527d7f002c0c4e2a37e1219610a6b'
 decimals: 18
 description: The World’s first DAPP to bet on the price of Cryptocurrencies
-name: Horse
+name: EthHorse
 symbol: HORSE
 ````
 
@@ -44,7 +44,7 @@ description: >-
   
   Ethorse is an Ethereum Smart Contract based DApp for betting on the price of
   Cryptocurrencies and win from everyone who bets against you.
-name: Horse
+name: EthHorse
 symbol: HORSE
 ````
 Note that folded scalar notation requires two new lines for a paragraph break (like Reddit format).
@@ -80,7 +80,7 @@ links:
 - Twitter: https://twitter.com/EthorseTeam
 - Website: https://ethorse.com/
 - Whitepaper: https://ethorse.com/Whitepaper.pdf
-name: Horse
+name: EthHorse
 symbol: HORSE
 ```
 
