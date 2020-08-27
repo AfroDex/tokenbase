@@ -56,6 +56,7 @@ Links can be included to refer the user to external resources relevant to the to
 - Bitcointalk
 - Blog
 - CoinMarketCap
+- CoinGecko
 - Discord
 - Email
 - Facebook
